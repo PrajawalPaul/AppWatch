@@ -1,7 +1,7 @@
 # AppWatch
 AppWatch is an earthquake notification app for India. Users can use the app to get notified about earthquakes impacting their area and can set limits on the earthquake scale they want to be notified about. The app is built on Flutter and is deployed on Firebase. It also utilizes Google Maps. Please note that the app is still under development.
 
-##Installation
+## Installation
 To run the AppWatch app on your machine, please follow these steps:
 
 Clone the repository: git clone https://github.com/yourusername/AppWatch.git
@@ -16,7 +16,7 @@ flutter run main.dart
 
 Please note that you'll need to have Flutter installed on your machine to run the app. You can also run the app using an emulator in Android Studio.
 
-###Contributing
+## Contributing
 Contributions to AppWatch are always welcome! If you'd like to contribute, please follow these steps:
 
 Fork the repository
