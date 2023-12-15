@@ -4,7 +4,7 @@ AppWatch is an earthquake notification app for India. Users can use the app to g
 ## Installation
 To run the AppWatch app on your machine, please follow these steps:
 
-Clone the repository: git clone https://github.com/yourusername/AppWatch.git
+Clone the repository: git clone https://github.com/PrajawalPaul/AppWatch
 Navigate to the AppWatch directory: cd AppWatch
 Install dependencies: flutter pub get
 Usage
